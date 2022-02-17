@@ -10,3 +10,4 @@
 10. git checkout main
 11. git merge 
 12. git branch -d rama-heroes
+13. git commit -am
